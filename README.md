@@ -15,7 +15,7 @@ python -m venv venv
 Unix:
 `source venv/Scripts/activate`  
 Windows (cmd):
-`venv\Scripts\activate.bat`
+`venv\Scripts\activate.bat`  
 Windows (PS):
 `venv\Scripts\Activate.ps1`
 ```
